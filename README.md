@@ -1,1 +1,3 @@
 # LeetNotion
+
+getting started
